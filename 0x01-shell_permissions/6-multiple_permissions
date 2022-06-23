@@ -1,2 +1,2 @@
 #!/bin/bash
-chhmod u+x,g+x,o+r hello
+chhmod u+x, g+x, o+r hello
