@@ -1,2 +1,2 @@
 #!/bin/bash
-chhmod u=rwx,g=rx,o=r hello
+chhmod ug+x,o+r hello
