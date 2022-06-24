@@ -12,3 +12,4 @@ a script that sets the permission to the file hello as follows: owner:no permiss
 a script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 =======
 >>>>>>> ccd4ac8a4f0dce79e04d907e2586359aeb472994
+a script that sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
